@@ -2,6 +2,7 @@
 
 * Resolução da Quest proposta no módulo de JS Intermediário do curso DevQuest para Desenvolvimento Web FullStack.
 * A Quest consiste na resolução de um desafio: "Criar um formulário com validação feita puramente no Javascript".
+* Aqui está o link para o GitHub Pages: [Quest - JS Intermediário!](https://msmachado89.github.io/Quest-JS-Intermediario/)
 
 ## 🛠️ Construído com
 
