@@ -37,7 +37,6 @@ main {
 .advise p {
   font-size: 20px;
   font-weight: 400;
-  /* line-height: 18px; */
 }
 
 form {
@@ -59,7 +58,7 @@ form p {
   padding: 18px;
   border-radius: 5px;
   border: 2px solid #e0e0e0cb;
-  transition: box-shadow 0.3s ease;
+  transition: outline 0.3s ease;
 }
 
 .content {
@@ -80,8 +79,6 @@ form p {
 .opacity {
   opacity: 1;
 }
-
-
 
 #btn {
   width: 100%;
